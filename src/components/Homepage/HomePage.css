@@ -1,0 +1,38 @@
+.homepage_container{
+    display: flex;
+    align-items: center;
+    height: 90vh;
+}
+.homepage_left{
+  flex: 0.6;
+  padding-right: 3px;
+}
+.homepage_p_h1{
+  font-size: 22px;
+}
+.red{
+  color: red;
+}
+.homepage_p_h1{
+  font-size: 48px;
+  font-weight: 700;
+
+}
+.homepage_p_h3{
+  font-size: 30px;
+}
+.homepage_discription{
+  font-size: 13px;
+}
+.homepage_logo{
+  height: 60px;
+  width: 60px;
+  margin: 5px ;
+}
+
+.homepage_right{
+    flex: 0.4;
+}
+.homepage_right > img{
+  width: 100%;
+}

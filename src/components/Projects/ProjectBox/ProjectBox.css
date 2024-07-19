@@ -1,0 +1,37 @@
+.projectbox_container{
+    margin: 20px;
+    box-shadow: 0px 5px 15px gray;
+    padding: 5px;
+    width: 400px;
+}
+.project_box_image_container{
+    width: 1-0%;
+}
+.projectbox_description_container{
+    padding: 0 10px;
+
+}
+.projectbax_title{
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    color: red;
+}
+.projectbox_sentances_container > p,.projectbox_link{
+    font-size: 14px;
+}
+.projectbox_link{
+    display: flex;
+    text-align: center;
+    margin: 15px 0px;
+}
+.projectbox_link > span{
+    color: red;
+    font-weight: 700;
+
+}
+.projectbox_link > a{
+    color: white;
+    padding-left: 10px;
+  
+}
